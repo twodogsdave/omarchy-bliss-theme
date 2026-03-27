@@ -1,7 +1,6 @@
 # Bliss Theme
 
-An e-ink inspired theme for **Omarchy**.  
-The theme was made for personal use only but I decided to share it anyway. Things may change in the future.
+An e-ink inspired theme for the Omarchy Linux distrobution with Hyprland.  Originally made by mishonki3.
 
 ---
 
